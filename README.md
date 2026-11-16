@@ -13,6 +13,8 @@
 
 ## Skill
 
+这些 Skill 目前仍在开发和测试中，内容和使用方式可能继续调整。
+
 | Skill | 内容 | 相关项目 |
 | --- | --- | --- |
 | [motion-design-judgment](skills/motion-design-judgment/SKILL.md) | 动态设计、排版与动效的分析及判断方法 | [《Exoplanetary Mirage》](projects/exoplanetary-mirage/README.md) |
