@@ -9,6 +9,7 @@
 | [《rollback/Q》动态设计复刻练习](projects/rollback-q/README.md) | After Effects | 非官方复刻工程、素材及制作说明 |
 | [《Exoplanetary Mirage》动态设计小样 v6](projects/exoplanetary-mirage/README.md) | After Effects | 动态设计小样工程及素材 |
 | [《翠杜》提示词与工作流](projects/cuidu/README.md) | ComfyUI / 提示词 | H3 工作流模板与分镜提示词 |
+| [《GAME CHANGER》AE 图层版](projects/game-changer/README.md) | After Effects | 图层版工程、素材及制作记录 |
 
 ## Skill
 
