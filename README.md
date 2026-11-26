@@ -20,5 +20,6 @@
 | --- | --- | --- |
 | [motion-design-judgment](skills/motion-design-judgment/SKILL.md) | 动态设计、排版与动效的分析及判断方法 | [《Exoplanetary Mirage》](projects/exoplanetary-mirage/README.md) |
 | [longscroll-collage-motion](skills/longscroll-collage-motion/SKILL.md) | 长卷拼贴动效的分析、设计与 After Effects 复刻方法 | [《rollback/Q》](projects/rollback-q/README.md) |
+| [ae-motion-craft](skills/ae-motion-craft/SKILL.md) | After Effects 动效制作、Blender 合成、渲染和工程交付 | — |
 
 更多说明及后续 Skill 的整理方式见 [Skill 索引](skills/README.md)。Skill 是供 AI 助手参考的方法文档，不一定是可直接运行的程序。
