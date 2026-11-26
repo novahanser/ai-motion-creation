@@ -11,7 +11,7 @@
 | [《翠杜》提示词与工作流](projects/cuidu/README.md) | ComfyUI / 提示词 | H3 工作流模板与分镜提示词 |
 | [《GAME CHANGER》AE 图层版](projects/game-changer/README.md) | After Effects | 图层版工程、素材及制作记录 |
 | [阈限场景工程](projects/limen/README.md) | Blender | 阈限场景的 Blender 工程、贴图与说明 |
-| [《大地の閾を探して》](projects/looking-for-edge-of-ground/README.md) | After Effects / Blender | PV 工程、三维场景与代理序列 |
+| [《大地の閾を探して》](projects/looking-for-edge-of-ground/README.md) | After Effects / Blender / ComfyUI | PV 工程、三维场景与代理序列 |
 
 ## Skill
 
