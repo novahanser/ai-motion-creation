@@ -15,7 +15,7 @@
 
 ## Skill
 
-这些 Skill 目前仍在开发和测试中，内容和使用方式可能继续调整。
+这些 Skill 正在开发和测试。
 
 | Skill | 内容 | 相关项目 |
 | --- | --- | --- |
@@ -23,4 +23,4 @@
 | [longscroll-collage-motion](skills/longscroll-collage-motion/SKILL.md) | 长卷拼贴动效的分析、设计与 After Effects 复刻方法 | [《rollback/Q》](projects/rollback-q/README.md) |
 | [ae-motion-craft](skills/ae-motion-craft/SKILL.md) | After Effects 动效制作、Blender 合成、渲染和工程交付 | — |
 
-更多说明及后续 Skill 的整理方式见 [Skill 索引](skills/README.md)。Skill 是供 AI 助手参考的方法文档，不一定是可直接运行的程序。
+更多说明及后续 Skill 的整理方式见 [Skill 索引](skills/README.md)。
